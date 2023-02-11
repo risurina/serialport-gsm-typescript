@@ -1,5 +1,5 @@
 {
-	"name": "serialport-gsm",
+	"name": "serialport-gsm-typescript",
 	"version": "5.0.0",
 	"description": "Library for the communication with GSM modems like sending and receiving SMS messages",
 	"license": "MIT",
